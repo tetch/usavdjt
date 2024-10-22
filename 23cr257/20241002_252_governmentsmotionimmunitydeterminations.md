@@ -816,14 +816,21 @@ Furthermore, based on the determination that all the conduct described in Sectio
 Respectfully submitted,
 
 JACK SMITH
+
 Special Counsel
 
 <u>/s/ Molly Gaston____________________</u>
+
 Molly Gaston
+
 Thomas P. Windom
+
 Senior Assistant Special Counsels
+
 950 Pennsylvania Avenue NW
+
 Room B-206
+
 Washington, D.C. 20530
 
 [^1]: Section I represents the Government’s efforts to provide the Court and the defendant with all of the categories of evidence that it may offer in its case-in-chief at trial. It does not include citations to every potential exhibit, nor does it account for any additional evidence that may be developed before trial.
@@ -1584,7 +1591,7 @@ GA 899-900 (Donald J. Trump Tweet 12/30/2020); GA 905-906 (Donald J. Trump Tweet
 [CITEDAVIS]: # "*Davis v. Washington*, 547 U.S. 813, 829 (2006)"
 [CITERAILFREIGHT]: # "*In re Rail Freight Fuel Surcharge Antitrust Litig. - MDL No. 1869*, 34 F.4th 1, 13 (D.C. Cir. 2022)"
 [CITELINDSEY]: # "*In re Lindsey*, 158 F.3d 1263, 1278-79 (D.C. Cir. 1998)"
-[CITETRUMPVBIDEN] # "*Trump v. Biden*, 394 Wis. 2d 629, 633 (Wis. 2020)"
+[CITETRUMPVBIDEN]: # "*Trump v. Biden*, 394 Wis. 2d 629, 633 (Wis. 2020)"
 
 [FNOSHKOSH]: https://www.c-span.org/video/?474841-1/president-trump-remarks-oshkosh-wisconsin "President Trump Remarks in Oshkosh, Wisconsin, August 17, 2020"
 [FNRNCSPEECHAUG]: https://www.c-span.org/video/?475000-103/president-trump-speaks-2020-republican-national-convention-vote "President Trump Speaks at 2020 Republican National Convention Vote"
