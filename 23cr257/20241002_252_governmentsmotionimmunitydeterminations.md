@@ -1245,7 +1245,7 @@ Washington, D.C. 20530
 [^410]: GA 359 ([REDACTION]).
 [^411]: GA 371-373 ([REDACTION]); GA 227-228 ([REDACTION]); GA 471-472 ([REDACTION]); GA 1668-1669 ([REDACTION]).
 [^412]: GA 405-406 ([REDACTION]); GA 1670 ([REDACTION]); GA 638-642 ([REDACTION]); GA 1680 ([REDACTION]); GA 1681 ([REDACTION]); GA 231 ([REDACTION]); GA 371 ([REDACTION]).
-"[^413]: *See, e.g.*, GA 886-887 (Donald J. Trump Tweet 12/26/2020); GA 897-898 (Donald J. Trump Tweet 12/27/2020); 
+[^413]: *See, e.g.*, GA 886-887 (Donald J. Trump Tweet 12/26/2020); GA 897-898 (Donald J. Trump Tweet 12/27/2020); 
 GA 899-900 (Donald J. Trump Tweet 12/30/2020); GA 905-906 (Donald J. Trump Tweet 01/01/2021); GA 913-914, GA 1891 (Donald J. Trump Tweet 01/01/2021); GA 928-929 (Donald J. Trump Tweet 01/04/2021); GA 932-933 (Donald J. Trump Tweet 01/05/2021); GA 938-939 (Donald J. Trump Tweet 01/05/2021)."
 [^414]: *See* GA 1928 (Video of Ellipse Rally 01/06/2021).
 [^415]: GA 1928 at 2:19:27 (Video of Ellipse Rally 01/06/2021).
@@ -1265,6 +1265,15 @@ GA 899-900 (Donald J. Trump Tweet 12/30/2020); GA 905-906 (Donald J. Trump Tweet
 [^429]: GA 1896 at 5:10 (Rallygoer Video 01/06/2021).
 [^430]: GA 1133 (Ellipse Rally Speech Draft Tr. 01/06/2021).
 [^431]: *Compare* GA 1133 (Ellipse Rally Speech Draft Tr. 01/06/2021) *with* GA 1683 (Ellipse Rally teleprompter speech excerpt).
+[^432]: GA 1122 (Ellipse Rally Speech Draft Tr. 01/06/2021).
+[^433]: GA 1116 (Ellipse Rally Speech Draft Tr. 01/06/2021).
+[^434]: *See, e.g.*, GA 1120, 1140 (Ellipse Rally Speech Draft Tr. 01/06/2021).
+[^435]: *Id*.
+[^436]: GA 1137 (Ellipse Rally Speech Draft Tr. 01/06/2021).
+[^437]: GA 1120, 1140, 1141 (Ellipse Rally Speech Draft Tr. 01/06/2021).
+[^438]: GA 1116 (Ellipse Rally Speech Draft Tr. 01/06/2021).
+[^439]: GA 1897 at 3:18 (Rallygoer Video 01/06/2021).
+[^440]: GA 1120 (Ellipse Rally Speech Draft Tr. 01/06/2021).
 [^441]: *Id*.
 [^442]: *Id*.
 [^443]: GA 1898 at 00:19 (Rallygoer Video 01/06/2021).
