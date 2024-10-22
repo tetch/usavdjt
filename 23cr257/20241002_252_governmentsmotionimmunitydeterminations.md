@@ -631,7 +631,7 @@ These kinds of Tweets all shared common internal characteristics that establish 
 
 On multiple occasions, the defendant issued a Tweet, or re-tweeted an agent’s Tweet, in order to attack individuals who had spoken out publicly to defend the integrity of the 2020 presidential election and reassure the public that there had not been outcome-determinative fraud.  These instances include:  on November 11, the defendant attacked Philadelphia City Commissioner [REDACTION P47] after he dispelled fraud claims in a television interview that the defendant saw;[^611] on November 29, the defendant issued a Tweet attacking [REDACTION P50] when he appeared on *60 Minutes*;[^612] on December 6, the defendant re-tweeted a post by his agent, [REDACTION P19] attacking Arizona House Speaker [REDACTION P18] for a public announcement that the defendant had not presented Arizona legislators with any evidence of outcome-determinative fraud and that the Arizona legislature could not overturn election results based on unsupported theories of fraud;[^613] again on December 6, the defendant re-tweeted a post by his agent, [REDACTION P48] labeling four Republican state legislators “cowards” after they issued a public announcement that they could not overturn the popular vote and appoint their own electors;[^614] and on December 21, the defendant attacked Wisconsin Supreme Court Justice [REDACTION P49] for ruling against him.[^615]
 
-###### (a) [REDACTION P47] (Superseding Indictment, ECF No. 226 ¶ 41; [ITALIC supra] p. 38)
+###### (a) [REDACTION P47] (Superseding Indictment, ECF No. 226 ¶ 41; *supra* p. 38)
 
 After [REDACTION P47] then a Philadelphia City Commissioner, gave a television interview on November 11 and made clear that he had not seen evidence of fraud there, the defendant issued a Tweet attacking [REDACTION P47] in partisan terms.  The defendant called [REDACTION P47] a “so called Republican (RINO)” and finished the Tweet with “We win!”[^616]  In so doing, the defendant was acting as a candidate frustrated that a member of his political party refused to perpetuate the lies the defendant was promoting to advance his personal political interests.
 
@@ -838,8 +838,8 @@ Washington, D.C. 20530
 [^3]: GA 501-512 ([REDACTION 19]); GA 591-599 ([REDACTION 20]); GA 246-249 ([REDACTION 21]); GA 132-153 ([REDACTION 22])
 [^4]: GA 505-507 ([REDACTION 23]); GA 250-255 ([REDACTION 24]); GA 588-589 ([REDACTION 25]).
 [^5]: GA 1968 at 37:20 (Video of Trump Interview with Chris Wallace 07/19/2020).
-[^6]: [ITALIC See] https://x.com/realDonaldTrump/status/1288818160389558273 (Donald J. Trump Tweet 07/30/2020).
-[^7]: [ITALIC See Donald Trump Interview Transcript with Jonathan Swan of Axios on HBO], Rev (Aug. 3, 2020) https://www.rev.com/blog/transcripts/donald-trump-interview-transcript-with-axios-on-hbo.
+[^6]: *See* https://x.com/realDonaldTrump/status/1288818160389558273 (Donald J. Trump Tweet 07/30/2020).
+[^7]: *See* Donald Trump Interview Transcript with Jonathan Swan of Axios on HBO], Rev (Aug. 3, 2020) https://www.rev.com/blog/transcripts/donald-trump-interview-transcript-with-axios-on-hbo.
 [^8]: GA 1943 at 57:33 [(Video of Oshkosh Rally 08/17/2020)][FNOSHKOSH].
 [^9]: GA 1951 at 22:08 [(Video of RNC Speech 08/24/2020)][FNRNCSPEECHAUG].
 [^10]: GA 1927 at 3:11-3:28 [(Video of Donald J. Trump Statement 10/27/2020)][FNTRUMPOCT].
